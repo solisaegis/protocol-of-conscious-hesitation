@@ -32,7 +32,11 @@ It is interpretive only.
   https://archive.org/details/protocol-of-conscious-hesitation  
 
 - **Zenodo DOI:**  
-  https://zenodo.org/records/18718699  
+  https://zenodo.org/records/18718699
+
+  ## Indexing
+
+- **PhilPapers record:** https://philpapers.org/rec/AEGPOC
 
 ---
 
